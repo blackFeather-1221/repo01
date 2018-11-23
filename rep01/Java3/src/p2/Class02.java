@@ -4,10 +4,5 @@ public class Class02 {
 
   private void aaa() {
     System.out.println("abc");
-    System.out.println("abc");
-    System.out.println("abc");
-    System.out.println("abc");
-    System.out.println("abc");
-    System.out.println("abc");
   }
 }
